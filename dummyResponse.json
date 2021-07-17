@@ -1,0 +1,555 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+      "type": "application/json",
+      "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+      "request": [
+          {
+              "title": "Google Custom Search - saurav kumar makemytrip",
+              "totalResults": "1090",
+              "searchTerms": "saurav kumar makemytrip",
+              "count": 10,
+              "startIndex": 1,
+              "inputEncoding": "utf8",
+              "outputEncoding": "utf8",
+              "safe": "off",
+              "cx": "196bf95ed8bc73b3a"
+          }
+      ],
+      "nextPage": [
+          {
+              "title": "Google Custom Search - saurav kumar makemytrip",
+              "totalResults": "1090",
+              "searchTerms": "saurav kumar makemytrip",
+              "count": 10,
+              "startIndex": 11,
+              "inputEncoding": "utf8",
+              "outputEncoding": "utf8",
+              "safe": "off",
+              "cx": "196bf95ed8bc73b3a"
+          }
+      ]
+  },
+  "context": {
+      "title": "Google"
+  },
+  "searchInformation": {
+      "searchTime": 0.498862,
+      "formattedSearchTime": "0.50",
+      "totalResults": "1090",
+      "formattedTotalResults": "1,090"
+  },
+  "items": [
+      {
+          "kind": "customsearch#result",
+          "title": "OYO 4936 Suba Krishmaa",
+          "htmlTitle": "OYO 4936 Suba Krishmaa",
+          "link": "https://www.google.co.in/travel/hotels/entity/ChkI6c6OuKaC59ZnGg0vZy8xMWM3MDZyMHk1EAE?utm_campaign=sharing&utm_medium=link&utm_source=htls&ts=CAESABogCgIaABIaEhQKBwjlDxADGBASBwjlDxADGBEYATICEAAqBAoAGgA&ei=rj1PYNaFIt7UlsYPuKekwAg&sa=X&ei=BDRRYN-yILGblsYP76KF6A4&ei=D9xRYPzrCM_ilsYP0q2BSA&ei=_7_ZYIqgPILglsYP9Mak4As&ved=2ahUKEwjKm7_PqbrxAhUCsMUCHXQjCbwQv6wDegUIARCKAQ",
+          "displayLink": "www.google.co.in",
+          "snippet": "Saurav Kumar. \"The location is great but the general service is not that good.\" balu d. \"Hot water issue in my room and not worthy for money\". View more reviews.",
+          "htmlSnippet": "<b>Saurav Kumar</b>. &quot;The location is great but the general service is not that good.&quot; balu d. &quot;Hot water issue in my room and not worthy for money&quot;. View more reviews.",
+          "formattedUrl": "https://www.google.co.in/.../ ChkI6c6OuKaC59ZnGg0vZy8xMWM3MDZyMHk1EAE?...",
+          "htmlFormattedUrl": "https://www.google.co.in/.../ ChkI6c6OuKaC59ZnGg0vZy8xMWM3MDZyMHk1EAE?...",
+          "pagemap": {
+              "metatags": [
+                  {
+                      "application-name": "Travel",
+                      "og:image": "https://lh5.googleusercontent.com/p/AF1QipPkv-PXcU6nLkp8M26pM5ixUEbnDKf9XPt_e4lH=w592-h404-n-k-no-v1",
+                      "og:type": "website",
+                      "og:image:width": "296",
+                      "twitter:card": "summary_large_image",
+                      "twitter:title": "OYO 4936 Suba Krishmaa 3.5 ★ (66)",
+                      "mod": "true",
+                      "og:site_name": "Google Hotel Search",
+                      "apple-mobile-web-app-title": "Travel",
+                      "og:title": "OYO 4936 Suba Krishmaa 3.5 ★ (66)",
+                      "og:image:height": "202",
+                      "og:description": "$25 · 29–30 Jun · Bright, down-to-earth rooms in a relaxed budget hotel offering a dining room & a lounge.",
+                      "twitter:image": "https://lh5.googleusercontent.com/p/AF1QipPkv-PXcU6nLkp8M26pM5ixUEbnDKf9XPt_e4lH=w592-h404-n-k-no-v1",
+                      "referrer": "origin",
+                      "twitter:image:alt": "OYO 4936 Suba Krishmaa 3.5 ★ (66)",
+                      "apple-mobile-web-app-status-bar-style": "black",
+                      "msapplication-tap-highlight": "no",
+                      "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no",
+                      "apple-mobile-web-app-capable": "yes",
+                      "twitter:description": "$25 · 29–30 Jun · Bright, down-to-earth rooms in a relaxed budget hotel offering a dining room & a lounge.",
+                      "mobile-web-app-capable": "yes",
+                      "og:locale": "en_GB",
+                      "og:url": "https://www.google.com/travel/hotels/entity/ChkI6c6OuKaC59ZnGg0vZy8xMWM3MDZyMHk1EAE?g2lb=4356900"
+                  }
+              ],
+              "cse_image": [
+                  {
+                      "src": "https://lh5.googleusercontent.com/p/AF1QipPkv-PXcU6nLkp8M26pM5ixUEbnDKf9XPt_e4lH=w592-h404-n-k-no-v1"
+                  }
+              ]
+          }
+      },
+      {
+          "kind": "customsearch#result",
+          "title": "Milan Continental",
+          "htmlTitle": "Milan Continental",
+          "link": "https://www.google.co.in/travel/hotels/entity/ChgImq7EnoHd_49XGgwvZy8xMmxrbXN3ZnYQAQ?utm_campaign=sharing&utm_medium=link&utm_source=htls&hrf=IgNVU0QqFgoHCOQPEAsYExIHCOQPEAsYFBgBKAA&ei=h3H9X5GTCtOalQauooegDA&sa=X&ei=T_n9X4UJzrzZAsvUhsAM&ei=4OrUYJb5LJXVlsYP65CK-AY&ved=2ahUKEwiW6c7njbHxAhWVqsUCHWuIAm8Qv6wDegQIARBT",
+          "displayLink": "www.google.co.in",
+          "snippet": "50% positive. What guests are saying. Aalekhya Cherukuri. \"Quite a nice place with warm people.\" HP Creations. \"Budget rooms are available\". Saurav kumar.",
+          "htmlSnippet": "50% positive. What guests are saying. Aalekhya Cherukuri. &quot;Quite a nice place with warm people.&quot; HP Creations. &quot;Budget rooms are available&quot;. <b>Saurav kumar</b>.",
+          "formattedUrl": "https://www.google.co.in/.../ChgImq7EnoHd_ 49XGgwvZy8xMmxrbXN3ZnYQAQ?...",
+          "htmlFormattedUrl": "https://www.google.co.in/.../ChgImq7EnoHd_ 49XGgwvZy8xMmxrbXN3ZnYQAQ?...",
+          "pagemap": {
+              "cse_thumbnail": [
+                  {
+                      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRpWX8SdxDTIS6C8492r9PW26Hubhtwu_lO88Q4noucSLYLaXz9PCl97yg",
+                      "width": "272",
+                      "height": "185"
+                  }
+              ],
+              "metatags": [
+                  {
+                      "application-name": "Travel",
+                      "og:image": "https://lh6.googleusercontent.com/proxy/B8yxIqbpf5csGCXlrUe4alqpe-QMKv1m6p-kPWxS2hNWjFGC62X69lBSkleFdjm-oKkrtRnVBmlMqB-2tpLOZbZH6CE-VqWK0DESWOj4SoIq--kXTF_ZUSbzxD7TAhr8QX6agx9HaHBcSvpbge3yCCReYHpNKTE=w592-h404-n-k-no-v1",
+                      "og:type": "website",
+                      "og:image:width": "296",
+                      "twitter:card": "summary_large_image",
+                      "twitter:title": "Milan Continental 3.3 ★ (92)",
+                      "mod": "true",
+                      "og:site_name": "Google Hotel Search",
+                      "apple-mobile-web-app-title": "Travel",
+                      "og:title": "Milan Continental 3.3 ★ (92)",
+                      "og:image:height": "202",
+                      "og:description": "$10 · 27–28 Jun",
+                      "twitter:image": "https://lh6.googleusercontent.com/proxy/B8yxIqbpf5csGCXlrUe4alqpe-QMKv1m6p-kPWxS2hNWjFGC62X69lBSkleFdjm-oKkrtRnVBmlMqB-2tpLOZbZH6CE-VqWK0DESWOj4SoIq--kXTF_ZUSbzxD7TAhr8QX6agx9HaHBcSvpbge3yCCReYHpNKTE=w592-h404-n-k-no-v1",
+                      "referrer": "origin",
+                      "twitter:image:alt": "Milan Continental 3.3 ★ (92)",
+                      "apple-mobile-web-app-status-bar-style": "black",
+                      "msapplication-tap-highlight": "no",
+                      "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no",
+                      "apple-mobile-web-app-capable": "yes",
+                      "twitter:description": "$10 · 27–28 Jun",
+                      "mobile-web-app-capable": "yes",
+                      "og:locale": "en_GB",
+                      "og:url": "https://www.google.com/travel/hotels/entity/ChgImq7EnoHd_49XGgwvZy8xMmxrbXN3ZnYQAQ?g2lb=4356900"
+                  }
+              ],
+              "cse_image": [
+                  {
+                      "src": "https://lh6.googleusercontent.com/proxy/B8yxIqbpf5csGCXlrUe4alqpe-QMKv1m6p-kPWxS2hNWjFGC62X69lBSkleFdjm-oKkrtRnVBmlMqB-2tpLOZbZH6CE-VqWK0DESWOj4SoIq--kXTF_ZUSbzxD7TAhr8QX6agx9HaHBcSvpbge3yCCReYHpNKTE=w592-h404-n-k-no-v1"
+                  }
+              ]
+          }
+      },
+      {
+          "kind": "customsearch#result",
+          "title": "OYO 12259 Radha Krishan Home Stay",
+          "htmlTitle": "OYO 12259 Radha Krishan Home Stay",
+          "link": "https://www.google.co.in/travel/hotels/entity/ChkIl-CTypWWlO1tGg0vZy8xMWhjeXQwZjZmEAE?utm_campaign=sharing&utm_medium=link&utm_source=htls&ts=CAESABogCgIaABIaEhQKBwjlDxAEGA4SBwjlDxAEGA8YATICEAAqCQoFOgNVU0QaAA&ei=lgjXYNjWLJPglsYP76OawA0&sa=X&ved=2ahUKEwjY-be2krXxAhUTsMUCHe-RBtgQv6wDegQIAhBX",
+          "displayLink": "www.google.co.in",
+          "snippet": "Kumar Saurav, a year ago. Excellent Service. Visited in January 2020. Goibibo. com. 3.1/5 · 9 reviews. Pavnesh, 3 years ago. It's good experience with family ...",
+          "htmlSnippet": "<b>Kumar Saurav</b>, a year ago. Excellent Service. Visited in January 2020. Goibibo. com. 3.1/5 · 9 reviews. Pavnesh, 3 years ago. It&#39;s good experience with family&nbsp;...",
+          "cacheId": "IA9TEeZ2yiIJ",
+          "formattedUrl": "https://www.google.co.in/.../ChkIl- CTypWWlO1tGg0vZy8xMWhjeXQwZjZmEAE?...",
+          "htmlFormattedUrl": "https://www.google.co.in/.../ChkIl- CTypWWlO1tGg0vZy8xMWhjeXQwZjZmEAE?...",
+          "pagemap": {
+              "cse_thumbnail": [
+                  {
+                      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQLHimwFjUbv1jk9GqQs9xAsK7FK0lsEbZnlNOEOyC6A",
+                      "width": "272",
+                      "height": "185"
+                  }
+              ],
+              "metatags": [
+                  {
+                      "application-name": "Travel",
+                      "og:image": "https://lh5.googleusercontent.com/p/AF1QipPdJ0UmsqReA95UGD23qPsOoTUrm78NUC1EFcM=w296-h202-n-k-no-v1",
+                      "og:type": "website",
+                      "og:image:width": "296",
+                      "twitter:card": "summary_large_image",
+                      "twitter:title": "OYO 12259 Radha Krishan Home Stay 4.1 ★ (11)",
+                      "mod": "true",
+                      "og:site_name": "Google Hotel Search",
+                      "apple-mobile-web-app-title": "Travel",
+                      "og:title": "OYO 12259 Radha Krishan Home Stay 4.1 ★ (11)",
+                      "og:image:height": "202",
+                      "twitter:image": "https://lh5.googleusercontent.com/p/AF1QipPdJ0UmsqReA95UGD23qPsOoTUrm78NUC1EFcM=w296-h202-n-k-no-v1",
+                      "referrer": "origin",
+                      "twitter:image:alt": "OYO 12259 Radha Krishan Home Stay 4.1 ★ (11)",
+                      "apple-mobile-web-app-status-bar-style": "black",
+                      "msapplication-tap-highlight": "no",
+                      "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no",
+                      "apple-mobile-web-app-capable": "yes",
+                      "mobile-web-app-capable": "yes",
+                      "og:locale": "en_GB",
+                      "og:url": "https://www.google.com/travel/hotels/entity/ChkIl-CTypWWlO1tGg0vZy8xMWhjeXQwZjZmEAE?g2lb=4356900"
+                  }
+              ],
+              "cse_image": [
+                  {}
+              ]
+          }
+      },
+      {
+          "kind": "customsearch#result",
+          "title": "Hotel Hansa Palace",
+          "htmlTitle": "Hotel Hansa Palace",
+          "link": "https://www.google.co.in/travel/hotels/entity/ChoIqODfu6_Xiv_mARoNL2cvMTFoMDIzcHp4YhAB/reviews?utm_campaign=sharing&utm_medium=link&utm_source=htls&rp=OAFIAg&ap=MAA&ts=CAESABpPCjESLzIlMHgzOTljNDc0N2M3NjYzMTZiOjB4NjU0ODA2YjQ1YjFiZjcyZToGTWlycHVyEhoSFAoHCOUPEAYYHRIHCOUPEAYYHhgBMgIQACoLCgcoAToDVVNEGgA&ei=cyjbYJEK-8CWxg_gt7zQAw&sa=X&ved=2ahUKEwjRj9Ovgb3xAhV7oMUCHeAbDzoQwIsFegUIARCUAg",
+          "displayLink": "www.google.co.in",
+          "snippet": "For room booking you can call us on 7839896045. 9569874949. Saurav Kumar5/ 5a year ago on Google. Quality service by the staff. Neat, clean and quite room.",
+          "htmlSnippet": "For room booking you can call us on 7839896045. 9569874949. <b>Saurav Kumar</b>5/ 5a year ago on Google. Quality service by the staff. Neat, clean and quite room.",
+          "formattedUrl": "https://www.google.co.in/.../reviews?utm...",
+          "htmlFormattedUrl": "https://www.google.co.in/.../reviews?utm...",
+          "pagemap": {
+              "cse_thumbnail": [
+                  {
+                      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1EZahqfFLLYS2jDHAUc1wk7xsheDd3tcxAs6b8cTdvKoU2DkPhgp6u2Eh",
+                      "width": "272",
+                      "height": "185"
+                  }
+              ],
+              "metatags": [
+                  {
+                      "application-name": "Travel",
+                      "og:image": "https://lh5.googleusercontent.com/p/AF1QipO9imlliOloqffPeuLXFwCiF_Lqe_PWjlvfYAJL=w296-h202-n-k-no-v1",
+                      "og:type": "website",
+                      "og:image:width": "296",
+                      "twitter:card": "summary_large_image",
+                      "twitter:title": "Hotel Hansa Palace 3.8 ★ (131)",
+                      "mod": "true",
+                      "og:site_name": "Google Hotel Search",
+                      "apple-mobile-web-app-title": "Travel",
+                      "og:title": "Hotel Hansa Palace 3.8 ★ (131)",
+                      "og:image:height": "202",
+                      "og:description": "$12 · 14–15 Jul",
+                      "twitter:image": "https://lh5.googleusercontent.com/p/AF1QipO9imlliOloqffPeuLXFwCiF_Lqe_PWjlvfYAJL=w296-h202-n-k-no-v1",
+                      "referrer": "origin",
+                      "twitter:image:alt": "Hotel Hansa Palace 3.8 ★ (131)",
+                      "apple-mobile-web-app-status-bar-style": "black",
+                      "msapplication-tap-highlight": "no",
+                      "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no",
+                      "apple-mobile-web-app-capable": "yes",
+                      "twitter:description": "$12 · 14–15 Jul",
+                      "mobile-web-app-capable": "yes",
+                      "og:locale": "en_GB",
+                      "og:url": "https://www.google.com/travel/hotels/entity/ChoIqODfu6_Xiv_mARoNL2cvMTFoMDIzcHp4YhAB?g2lb=4356900"
+                  }
+              ],
+              "cse_image": [
+                  {
+                      "src": "https://lh5.googleusercontent.com/p/AF1QipO9imlliOloqffPeuLXFwCiF_Lqe_PWjlvfYAJL=w296-h202-n-k-no-v1"
+                  }
+              ]
+          }
+      },
+      {
+          "kind": "customsearch#result",
+          "title": "New Metro Guest House",
+          "htmlTitle": "New Metro Guest House",
+          "link": "https://www.google.co.in/travel/hotels/entity/CgsIm-3xz-mQ__ywARAB?ei=-dx0XZDMIMrLkgPXupKIBg&ei=_ZF4XZCeFoH-sgeKloKgAQ&ei=D554XY-xFsjnkgPzqKjQBg",
+          "displayLink": "www.google.co.in",
+          "snippet": "https://www.makemytrip.com › hotels. NEW METRO GUEST HOUSE Mumbai Hotel, FREE Cancellation ... New Metro guest house is located at heart of city in ...",
+          "htmlSnippet": "https://www.<b>makemytrip</b>.com › hotels. NEW METRO GUEST HOUSE Mumbai Hotel, FREE Cancellation ... New Metro guest house is located at heart of city in&nbsp;...",
+          "cacheId": "gsJzEYfLMucJ",
+          "formattedUrl": "https://www.google.co.in/travel/.../CgsIm-3xz-mQ__ywARAB?ei...",
+          "htmlFormattedUrl": "https://www.google.co.in/travel/.../CgsIm-3xz-mQ__ywARAB?ei...",
+          "pagemap": {
+              "cse_thumbnail": [
+                  {
+                      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQRJQkSjaGFO7q4tf7osIxma7M4FezFK_nvoxhQyPONh0HlBN_FukNbITs",
+                      "width": "272",
+                      "height": "185"
+                  }
+              ],
+              "metatags": [
+                  {
+                      "application-name": "Travel",
+                      "og:image": "https://lh5.googleusercontent.com/p/AF1QipM0_SqLQEfKmKn6dHwOdPOulyyze1AZVrwSyeaf=w296-h202-n-k-no-v1",
+                      "og:type": "website",
+                      "og:image:width": "296",
+                      "twitter:card": "summary_large_image",
+                      "twitter:title": "New Metro Guest House 4.3 ★ (155)",
+                      "mod": "true",
+                      "og:site_name": "Google Hotel Search",
+                      "apple-mobile-web-app-title": "Travel",
+                      "og:title": "New Metro Guest House 4.3 ★ (155)",
+                      "og:image:height": "202",
+                      "twitter:image": "https://lh5.googleusercontent.com/p/AF1QipM0_SqLQEfKmKn6dHwOdPOulyyze1AZVrwSyeaf=w296-h202-n-k-no-v1",
+                      "referrer": "origin",
+                      "twitter:image:alt": "New Metro Guest House 4.3 ★ (155)",
+                      "apple-mobile-web-app-status-bar-style": "black",
+                      "msapplication-tap-highlight": "no",
+                      "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no",
+                      "apple-mobile-web-app-capable": "yes",
+                      "mobile-web-app-capable": "yes",
+                      "og:locale": "en_GB",
+                      "og:url": "https://www.google.com/travel/hotels/entity/ChkIm-3xz-mQ__ywARoML2cvMXE1Z2xyNF8wEAE?g2lb=4356900"
+                  }
+              ],
+              "cse_image": [
+                  {
+                      "src": "https://lh5.googleusercontent.com/p/AF1QipM0_SqLQEfKmKn6dHwOdPOulyyze1AZVrwSyeaf=w296-h202-n-k-no-v1"
+                  }
+              ]
+          }
+      },
+      {
+          "kind": "customsearch#result",
+          "title": "Sangeeta Sadan",
+          "htmlTitle": "Sangeeta Sadan",
+          "link": "https://www.google.co.in/travel/hotels/entity/ChoI6cnLiejek-KLARoNL2cvMTFoY2tkNWRtOBAB",
+          "displayLink": "www.google.co.in",
+          "snippet": "Book your Chitrakoot stay at Hotel Sangeeta Sadan with best prices only on MakeMyTrip.com. Hurry! Get , and complete your booking at the .",
+          "htmlSnippet": "Book your Chitrakoot stay at Hotel Sangeeta Sadan with best prices only on <b>MakeMyTrip</b>.com. Hurry! Get , and complete your booking at the .",
+          "formattedUrl": "https://www.google.co.in/.../ChoI6cnLiejek- KLARoNL2cvMTFoY2tkNWRtOBAB",
+          "htmlFormattedUrl": "https://www.google.co.in/.../ChoI6cnLiejek- KLARoNL2cvMTFoY2tkNWRtOBAB",
+          "pagemap": {
+              "cse_thumbnail": [
+                  {
+                      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRe4In6SDUCBiAPTARSe8o7ALu3BRIpK_lb46jvvWXpUYqxc2x9Z1eXPYU",
+                      "width": "272",
+                      "height": "185"
+                  }
+              ],
+              "metatags": [
+                  {
+                      "application-name": "Travel",
+                      "og:image": "https://lh5.googleusercontent.com/p/AF1QipPyvqBZH0pcWretBW8BGrCgbkosezXMgC6fB62u=w296-h202-n-k-no-v1",
+                      "og:type": "website",
+                      "og:image:width": "296",
+                      "twitter:card": "summary_large_image",
+                      "twitter:title": "Sangeeta Sadan 4.2 ★ (66)",
+                      "mod": "true",
+                      "og:site_name": "Google Hotel Search",
+                      "apple-mobile-web-app-title": "Travel",
+                      "og:title": "Sangeeta Sadan 4.2 ★ (66)",
+                      "og:image:height": "202",
+                      "og:description": "$12 · 14–15 Jul",
+                      "twitter:image": "https://lh5.googleusercontent.com/p/AF1QipPyvqBZH0pcWretBW8BGrCgbkosezXMgC6fB62u=w296-h202-n-k-no-v1",
+                      "referrer": "origin",
+                      "twitter:image:alt": "Sangeeta Sadan 4.2 ★ (66)",
+                      "apple-mobile-web-app-status-bar-style": "black",
+                      "msapplication-tap-highlight": "no",
+                      "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no",
+                      "apple-mobile-web-app-capable": "yes",
+                      "twitter:description": "$12 · 14–15 Jul",
+                      "mobile-web-app-capable": "yes",
+                      "og:locale": "en_GB",
+                      "og:url": "https://www.google.com/travel/hotels/entity/ChoI6cnLiejek-KLARoNL2cvMTFoY2tkNWRtOBAB?g2lb=4356900"
+                  }
+              ],
+              "cse_image": [
+                  {
+                      "src": "https://lh5.googleusercontent.com/p/AF1QipPyvqBZH0pcWretBW8BGrCgbkosezXMgC6fB62u=w296-h202-n-k-no-v1"
+                  }
+              ]
+          }
+      },
+      {
+          "kind": "customsearch#result",
+          "title": "Ajatsatru Hotel",
+          "htmlTitle": "Ajatsatru Hotel",
+          "link": "https://www.google.co.in/travel/hotels/entity/ChcI6I3mx-iJjPEzGgsvZy8xdHRkbGRmbRAB?utm_campaign=sharing&utm_medium=link&utm_source=htls&rp=OAFIAg&ap=MAA&sa=X&ved=2ahUKEwijw6Lz8K3xAhWvs8UCHTMHDH4Qv6wDegQIAhB0&ts=CAESABphCkMSPzIlMHgzOThjZDE4NGI0YTA1NGY5OjB4ZDlhYTM1ODc3ZjNmMDIzMToWR2F5YSBNZXRyb3BvbGl0YW4gQXJlYRoAEhoSFAoHCOUPEAYYGxIHCOUPEAYYHBgBMgIQACoLCgcoAToDVVNEGgA",
+          "displayLink": "www.google.co.in",
+          "snippet": "https://www.makemytrip.com › hotels. Ajatsatru Hotel Gaya , FREE Cancellation*, Price, Address ... AjatSatru Hotel is situated in Gaya, a city of ancient historical ...",
+          "htmlSnippet": "https://www.<b>makemytrip</b>.com › hotels. Ajatsatru Hotel Gaya , FREE Cancellation*, Price, Address ... AjatSatru Hotel is situated in Gaya, a city of ancient historical&nbsp;...",
+          "formattedUrl": "https://www.google.co.in/.../ChcI6I3mx-iJjPEzGgsvZy8xdHRkbGRmbRAB? ...",
+          "htmlFormattedUrl": "https://www.google.co.in/.../ChcI6I3mx-iJjPEzGgsvZy8xdHRkbGRmbRAB? ...",
+          "pagemap": {
+              "cse_thumbnail": [
+                  {
+                      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRFv6ht31Vj5H1_wFOAe48pe2UV0qZgdC61kH0QuNqHy8o5t7RWHnhGFYE",
+                      "width": "272",
+                      "height": "185"
+                  }
+              ],
+              "metatags": [
+                  {
+                      "application-name": "Travel",
+                      "og:image": "https://lh5.googleusercontent.com/p/AF1QipPzE2RIusFbi1wsd93uWOhRJ-vsHb7HNxKxkVzT=w296-h202-n-k-no-v1",
+                      "og:type": "website",
+                      "og:image:width": "296",
+                      "twitter:card": "summary_large_image",
+                      "twitter:title": "Ajatsatru Hotel 3.4 ★ (898)",
+                      "mod": "true",
+                      "og:site_name": "Google Hotel Search",
+                      "apple-mobile-web-app-title": "Travel",
+                      "og:title": "Ajatsatru Hotel 3.4 ★ (898)",
+                      "og:image:height": "202",
+                      "og:description": "$10 · 11–12 Jul · Pared-down rooms, plus event space & a restaurant with international cuisine & vegetarian fare.",
+                      "twitter:image": "https://lh5.googleusercontent.com/p/AF1QipPzE2RIusFbi1wsd93uWOhRJ-vsHb7HNxKxkVzT=w296-h202-n-k-no-v1",
+                      "referrer": "origin",
+                      "twitter:image:alt": "Ajatsatru Hotel 3.4 ★ (898)",
+                      "apple-mobile-web-app-status-bar-style": "black",
+                      "msapplication-tap-highlight": "no",
+                      "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no",
+                      "apple-mobile-web-app-capable": "yes",
+                      "twitter:description": "$10 · 11–12 Jul · Pared-down rooms, plus event space & a restaurant with international cuisine & vegetarian fare.",
+                      "mobile-web-app-capable": "yes",
+                      "og:locale": "en_GB",
+                      "og:url": "https://www.google.com/travel/hotels/entity/ChcI6I3mx-iJjPEzGgsvZy8xdHRkbGRmbRAB?g2lb=4356900"
+                  }
+              ],
+              "cse_image": [
+                  {
+                      "src": "https://lh5.googleusercontent.com/p/AF1QipPzE2RIusFbi1wsd93uWOhRJ-vsHb7HNxKxkVzT=w296-h202-n-k-no-v1"
+                  }
+              ]
+          }
+      },
+      {
+          "kind": "customsearch#result",
+          "title": "Milan Continental",
+          "htmlTitle": "Milan Continental",
+          "link": "https://www.google.co.in/travel/hotels/entity/ChgImq7EnoHd_49XGgwvZy8xMmxrbXN3ZnYQAQ?utm_campaign=sharing&utm_medium=link&utm_source=htls&hrf=IgNVU0QqFgoHCOQPEAsYExIHCOQPEAsYFBgBKAA&ei=h3H9X5GTCtOalQauooegDA&sa=X&ei=T_n9X4UJzrzZAsvUhsAM&ei=i1zaYODcAdmdlsYP3uy24Aw&ved=2ahUKEwigzuH0vrvxAhXZjsUCHV62DcwQv6wDegQIARBs",
+          "displayLink": "www.google.co.in",
+          "snippet": "Highest scoreHighest score. Lowest scoreLowest score. Saurav kumar1/5a year ago on Google. Budget friendly. Very bad room service. Rooms were smelling.",
+          "htmlSnippet": "Highest scoreHighest score. Lowest scoreLowest score. <b>Saurav kumar</b>1/5a year ago on Google. Budget friendly. Very bad room service. Rooms were smelling.",
+          "formattedUrl": "https://www.google.co.in/.../ChgImq7EnoHd_ 49XGgwvZy8xMmxrbXN3ZnYQAQ?...",
+          "htmlFormattedUrl": "https://www.google.co.in/.../ChgImq7EnoHd_ 49XGgwvZy8xMmxrbXN3ZnYQAQ?...",
+          "pagemap": {
+              "cse_thumbnail": [
+                  {
+                      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkuwSQAy86yedSXH9xAnfQNOW-QoEeapQE-xrrtkOlqNfY_jpIpglNitYQ",
+                      "width": "272",
+                      "height": "185"
+                  }
+              ],
+              "metatags": [
+                  {
+                      "application-name": "Travel",
+                      "og:image": "https://lh6.googleusercontent.com/proxy/B8yxIqbpf5csGCXlrUe4alqpe-QMKv1m6p-kPWxS2hNWjFGC62X69lBSkleFdjm-oKkrtRnVBmlMqB-2tpLOZbZH6CE-VqWK0DESWOj4SoIq--kXTF_ZUSbzxD7TAhr8QX6agx9HaHBcSvpbge3yCCReYHpNKTE=w296-h202-n-k-no-v1",
+                      "og:type": "website",
+                      "og:image:width": "296",
+                      "twitter:card": "summary_large_image",
+                      "twitter:title": "Milan Continental 3.3 ★ (92)",
+                      "mod": "true",
+                      "og:site_name": "Google Hotel Search",
+                      "apple-mobile-web-app-title": "Travel",
+                      "og:title": "Milan Continental 3.3 ★ (92)",
+                      "og:image:height": "202",
+                      "og:description": "$9 · 14–15 Jul",
+                      "twitter:image": "https://lh6.googleusercontent.com/proxy/B8yxIqbpf5csGCXlrUe4alqpe-QMKv1m6p-kPWxS2hNWjFGC62X69lBSkleFdjm-oKkrtRnVBmlMqB-2tpLOZbZH6CE-VqWK0DESWOj4SoIq--kXTF_ZUSbzxD7TAhr8QX6agx9HaHBcSvpbge3yCCReYHpNKTE=w296-h202-n-k-no-v1",
+                      "referrer": "origin",
+                      "twitter:image:alt": "Milan Continental 3.3 ★ (92)",
+                      "apple-mobile-web-app-status-bar-style": "black",
+                      "msapplication-tap-highlight": "no",
+                      "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no",
+                      "apple-mobile-web-app-capable": "yes",
+                      "twitter:description": "$9 · 14–15 Jul",
+                      "mobile-web-app-capable": "yes",
+                      "og:locale": "en_GB",
+                      "og:url": "https://www.google.com/travel/hotels/entity/ChgImq7EnoHd_49XGgwvZy8xMmxrbXN3ZnYQAQ?g2lb=4356900"
+                  }
+              ],
+              "cse_image": [
+                  {
+                      "src": "https://lh6.googleusercontent.com/proxy/B8yxIqbpf5csGCXlrUe4alqpe-QMKv1m6p-kPWxS2hNWjFGC62X69lBSkleFdjm-oKkrtRnVBmlMqB-2tpLOZbZH6CE-VqWK0DESWOj4SoIq--kXTF_ZUSbzxD7TAhr8QX6agx9HaHBcSvpbge3yCCReYHpNKTE=w296-h202-n-k-no-v1"
+                  }
+              ]
+          }
+      },
+      {
+          "kind": "customsearch#result",
+          "title": "Rangamati Holiday Resort - MakeMyTrip.com",
+          "htmlTitle": "Rangamati Holiday Resort - <b>MakeMyTrip</b>.com",
+          "link": "https://www.google.co.in/travel/hotels/entity/CgoI6pKAzd3Z2-gMEAE?utm_campaign=sharing&utm_medium=link&utm_source=htls&sa=X&hrf=CgQIMhAAIgNVU0QqFgoHCOUPEAEYHhIHCOUPEAEYHxgBKACwAQBYAWgBmgEyEgpKYWxwYWlndXJpGiQweDM5ZTQ3OTQ5NDBiNzBmNGI6MHhjYzMyMGY3NGFlOWYxY2WiARcKCS9tLzA4ZHBoaxIKSmFscGFpZ3VyaaoBCgoCCC4SAghWGAGqAQsKAwjhAhICCGMYAZIBAiAB&rp=OAFIAg&ap=MAA&ei=rdqPYPvpBYaa9wTv_L34BA&ved=2ahUKEwi79O7TsK3wAhUGzZ0KHW9-D08QkP8FegUIAhCNAQ",
+          "displayLink": "www.google.co.in",
+          "snippet": "Report review · Sourav Kumar Tah4/57 months ago on Google. Decent budget resort with helpful and polite staff. Cons: way far from tourist spots. Report review.",
+          "htmlSnippet": "Report review &middot; <b>Sourav Kumar</b> Tah4/57 months ago on Google. Decent budget resort with helpful and polite staff. Cons: way far from tourist spots. Report review.",
+          "formattedUrl": "https://www.google.co.in/.../CgoI6pKAzd3Z2-gMEAE?...",
+          "htmlFormattedUrl": "https://www.google.co.in/.../CgoI6pKAzd3Z2-gMEAE?...",
+          "pagemap": {
+              "cse_thumbnail": [
+                  {
+                      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyf808ImV3P7-6KSUoZBq5JnSr-bG_9fZH9D2VoIbL0d2QgrgBb7304y4",
+                      "width": "272",
+                      "height": "185"
+                  }
+              ],
+              "metatags": [
+                  {
+                      "application-name": "Travel",
+                      "og:image": "https://lh5.googleusercontent.com/p/AF1QipOAW0KEh7344kOKfHGLgAaoijAaGCVxWtCD7Ud_=w296-h202-n-k-no-v1",
+                      "og:type": "website",
+                      "og:image:width": "296",
+                      "twitter:card": "summary_large_image",
+                      "twitter:title": "Rangamati Holiday Resort 4.1 ★ (33)",
+                      "mod": "true",
+                      "og:site_name": "Google Hotel Search",
+                      "apple-mobile-web-app-title": "Travel",
+                      "og:title": "Rangamati Holiday Resort 4.1 ★ (33)",
+                      "og:image:height": "202",
+                      "og:description": "$15 · 17–18 Jul",
+                      "twitter:image": "https://lh5.googleusercontent.com/p/AF1QipOAW0KEh7344kOKfHGLgAaoijAaGCVxWtCD7Ud_=w296-h202-n-k-no-v1",
+                      "referrer": "origin",
+                      "twitter:image:alt": "Rangamati Holiday Resort 4.1 ★ (33)",
+                      "apple-mobile-web-app-status-bar-style": "black",
+                      "msapplication-tap-highlight": "no",
+                      "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no",
+                      "apple-mobile-web-app-capable": "yes",
+                      "twitter:description": "$15 · 17–18 Jul",
+                      "mobile-web-app-capable": "yes",
+                      "og:locale": "en_GB",
+                      "og:url": "https://www.google.com/travel/hotels/entity/ChkI6pKAzd3Z2-gMGg0vZy8xMWR6ZGJyajB3EAE?g2lb=4356900"
+                  }
+              ],
+              "cse_image": [
+                  {
+                      "src": "https://lh5.googleusercontent.com/p/AF1QipOAW0KEh7344kOKfHGLgAaoijAaGCVxWtCD7Ud_=w296-h202-n-k-no-v1"
+                  }
+              ]
+          }
+      },
+      {
+          "kind": "customsearch#result",
+          "title": "Hotel Kashi Varanasi",
+          "htmlTitle": "Hotel Kashi Varanasi",
+          "link": "https://www.google.co.in/travel/hotels/entity/ChkI8ebC_oKT9JRSGg0vZy8xMW42Z2gwM2M4EAE?utm_campaign=sharing&utm_medium=link&utm_source=htls&hrf=IgNVU0QqFgoHCOUPEAEYDRIHCOUPEAEYDhgBKAA&ei=QHfNYJvZLN-ClsYPn_KBgAg&sa=X&ved=2ahUKEwib-Z3H8qLxAhVfgcUCHR95AIAQv6wDegQIAhBv",
+          "displayLink": "www.google.co.in",
+          "snippet": "Book your Varanasi stay at Hotel Kashi Inn with best prices only on MakeMyTrip. com. Hurry! Get , and complete your booking at the lowest price .",
+          "htmlSnippet": "Book your Varanasi stay at Hotel Kashi Inn with best prices only on <b>MakeMyTrip</b>. com. Hurry! Get , and complete your booking at the lowest price .",
+          "formattedUrl": "https://www.google.co.in/.../ChkI8ebC_ oKT9JRSGg0vZy8xMW42Z2gwM2M4EAE?...",
+          "htmlFormattedUrl": "https://www.google.co.in/.../ChkI8ebC_ oKT9JRSGg0vZy8xMW42Z2gwM2M4EAE?...",
+          "pagemap": {
+              "cse_thumbnail": [
+                  {
+                      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyYXgb-KiPzELMzCS9tDjx-mhas0C1DkULgXZRg76btmwyiDpz5SUSva9K",
+                      "width": "272",
+                      "height": "185"
+                  }
+              ],
+              "metatags": [
+                  {
+                      "application-name": "Travel",
+                      "og:image": "https://lh5.googleusercontent.com/p/AF1QipOyLUGQY6EFITyxl4giBHogG-aWzkJixJ7l3Vt1=w296-h202-n-k-no-v1",
+                      "og:type": "website",
+                      "og:image:width": "296",
+                      "twitter:card": "summary_large_image",
+                      "twitter:title": "Hotel Kashi Varanasi 5.0 ★ (218)",
+                      "mod": "true",
+                      "og:site_name": "Google Hotel Search",
+                      "apple-mobile-web-app-title": "Travel",
+                      "og:title": "Hotel Kashi Varanasi 5.0 ★ (218)",
+                      "og:image:height": "202",
+                      "og:description": "$16 · 9–10 Jul",
+                      "twitter:image": "https://lh5.googleusercontent.com/p/AF1QipOyLUGQY6EFITyxl4giBHogG-aWzkJixJ7l3Vt1=w296-h202-n-k-no-v1",
+                      "referrer": "origin",
+                      "twitter:image:alt": "Hotel Kashi Varanasi 5.0 ★ (218)",
+                      "apple-mobile-web-app-status-bar-style": "black",
+                      "msapplication-tap-highlight": "no",
+                      "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no",
+                      "apple-mobile-web-app-capable": "yes",
+                      "twitter:description": "$16 · 9–10 Jul",
+                      "mobile-web-app-capable": "yes",
+                      "og:locale": "en_GB",
+                      "og:url": "https://www.google.com/travel/hotels/entity/ChkI8ebC_oKT9JRSGg0vZy8xMW42Z2gwM2M4EAE?g2lb=4356900"
+                  }
+              ],
+              "cse_image": [
+                  {
+                      "src": "https://lh5.googleusercontent.com/p/AF1QipOyLUGQY6EFITyxl4giBHogG-aWzkJixJ7l3Vt1=w296-h202-n-k-no-v1"
+                  }
+              ]
+          }
+      }
+  ]
+}
